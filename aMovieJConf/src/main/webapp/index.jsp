@@ -1,0 +1,1 @@
+<% response.sendRedirect("movies/list"); %>
