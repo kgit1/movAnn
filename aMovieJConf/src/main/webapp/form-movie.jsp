@@ -11,6 +11,7 @@ href="${pageContext.request.contextPath}/resources/css/main.css">
 </head>
 <body>
 <div class="main">
+New Content here!
 <p><a href="${pageContext.request.contextPath}/movies/list">MAIN</a></p>
 <table>
 <tr><th colspan="4">TOP MOVIES</th></tr>

@@ -15,14 +15,14 @@ href="${pageContext.request.contextPath}/resources/css/main.css">
 <div class="main">
 <p style="text-align:right;color:red;font-size:0.8em">ver20Nov2016</p>
 <p><a href="http://c1-kongfly.rhcloud.com/2/">PREVIOUS MAIN</a></p>
-New Content here
+New Content here!
 
-<p><a href="showFormMovies" class="button">Add Movie</a>
+ <%-- <p><a href="showFormMovies" class="button">Add Movie</a>
 <a href="showMovie" class="button">Show Movie</a></p>
 <form action="showMovieByYear">
 <input type="text" name="year"/>
 <input type="submit" value="Show" class="save"/>
-</form>
+</form>--%>
 
 
 <table class="del">

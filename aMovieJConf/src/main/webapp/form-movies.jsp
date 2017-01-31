@@ -11,6 +11,7 @@ href="${pageContext.request.contextPath}/resources/css/main.css">
 </head>
 <body>
 <div class="main">
+New Content here!
 <form:form action="saveMovie" modelAttribute="movie" method="POST">
 <table>
 <tr>
